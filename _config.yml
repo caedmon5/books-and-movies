@@ -9,7 +9,7 @@ name: Kakelbont: Books and Movies
 description: A website where I discuss the books and movies I've seen
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: 
 
 #
 # Flags below are optional
@@ -47,7 +47,7 @@ url:
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "books-and-movies"
+baseurl: "/books-and-movies"
 
 #
 # !! You don't need to change any of the configuration flags below !!
